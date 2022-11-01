@@ -57,7 +57,7 @@ const App = () => {
 			<HeadComponent />
 			<div className='container'>
 				<header className='header-container'>
-					<p className='header'> 😳 Vctor's Buildspace Emoji Store Project😈</p>
+					<p className='header'> 😳 Victor's Buildspace Emoji Store Project😈</p>
 					{isOwner && (
 						<button
 							className='create-product-button'
